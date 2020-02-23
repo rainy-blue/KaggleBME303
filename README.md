@@ -1,5 +1,6 @@
 # KaggleBME303
 Kaggle project created for BME303 Introduction to Programming (Python/C++) in Spring 2019
+
 Utilized Python libraries: scikit, numpy, Matplotlib, OpenCV, scipy
 
 Goal was to create algorithm to segment and count cancerous nuclei in provided library of 5000+ images
