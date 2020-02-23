@@ -10,6 +10,8 @@ Goal was to create algorithm to segment and count cancerous nuclei in provided l
 - rgb2gray
 - histogram 
 - invert (greyscale - if majority of blobs were light as opposed to dark on histogram)
+
+
 **Size standardization**
 - resize (dimensions as arguments)
 - resize_PAR (resizing while preserving target aspect ratio percentage)
